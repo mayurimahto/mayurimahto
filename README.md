@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayurimahto
 - 👀 I’m interested in web development and open source projects
-- 🌱 I’m currently learning C++ with DSA and python
+- 🌱 I’m currently learning C++ with DSA, Web development and python
 - 💞️ I’m looking to collaborate on open sources
 - 📫 How to reach me- mahtomayuri@gmail.com / linkedin-https://www.linkedin.com/in/mayuri-mahto-64418621a/
 
