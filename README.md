@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayuri aka Yuri</h1>
 <h3 align="center">An undergrad at ECE student , Front-end developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.ca/pin/152840981095140152/">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 I’m currently learning ** JavaScript and React**
 - 🔭 I’m currently grinding my **Problem Solving Skills**
