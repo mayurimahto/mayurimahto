@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @mayurimahto
-- 👀 I’m interested in web development and open source projects
-- 🌱 I’m currently learning DSA with C++ & Web development.
-- 💞️ I’m looking to collaborate on open source projects.
+<h1 align="center">Hi 👋, I'm Mayuri aka Yuri</h1>
+<h3 align="center">An undergrad at ECE student , Front-end developer</h3>
+
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.ca/pin/152840981095140152/">
+
+- 🌱 I’m currently learning ** JavaScript and React**
+- 🔭 I’m currently grinding my **Problem Solving Skills**
 - 📫 How to reach me- linkedin-https://www.linkedin.com/in/mayuri-mahto-64418621a/
+
 
 <!---
 mayurimahto/mayurimahto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
