@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently grinding my **Problem Solving Skills**
 
-- ⚡ Fun fact **I love to make artsy stuffs**
+- ⚡ Fun fact **I love making artsy stuffs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
