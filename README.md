@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **NodeJs**
 
 - 🔭 I’m currently grinding my **Problem Solving Skills**
 
