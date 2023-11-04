@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayuri aka Yuri</h1>
-<h3 align="center">An undergrad ECE student , Front-end developer</h3>
+<h3 align="center">An undergrad ECE student , Front-end developer diving into Backend & Freelance Technical Writer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurimahto&label=Profile%20views&color=0e75b6&style=flat" alt="mayurimahto" /> </p>
 
